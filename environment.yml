@@ -5,9 +5,7 @@ channels:
   - https://repo.anaconda.com/pkgs/r
   - https://repo.anaconda.com/pkgs/msys2
 dependencies:
-<<<<<<< HEAD
   - python=3.14
-=======
   - bzip2=1.0.8=h2bbff1b_6
   - ca-certificates=2025.9.9=haa95532_0
   - expat=2.7.1=h8ddb27b_0
@@ -42,4 +40,3 @@ dependencies:
       - qrcode==8.2
       - setuptools==80.9.0
       - six==1.17.0
->>>>>>> 901d67a (Load conda env file)
