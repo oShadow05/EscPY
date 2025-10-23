@@ -7,7 +7,6 @@ channels:
 dependencies:
 <<<<<<< HEAD
   - python=3.14
-prefix: C:\Users\Alexs\Desktop\Projects\Python\EscPy
 =======
   - bzip2=1.0.8=h2bbff1b_6
   - ca-certificates=2025.9.9=haa95532_0
