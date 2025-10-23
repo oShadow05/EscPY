@@ -1,0 +1,31 @@
+# Ambiente virtuale Anaconda
+env/
+envs/
+anaconda3/
+*.conda
+*.yaml
+
+# File di configurazione ambiente
+*.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Notebook Jupyter
+.ipynb_checkpoints/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Log e temp
+*.log
+*.tmp
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
